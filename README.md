@@ -13,7 +13,7 @@ The composite logo = gold coin mark + two lines of wordmark, on a **transparent*
 | `Mo-Logo-Composite-HD-dark.png` | Dark backgrounds (navy / black) | "My Oilfield" in **white** |
 
 - Size: 2152 × 544 px (HD, ~4× the original 263 × 68 master).
-- "Mo Connectivity All" stays **gold** (RGB 255, 192, 0) in both versions.
+- Top line is two-tone: **"Mo" in rich gold** — the coin's own gold, RGB (176, 128, 0), deep and heavy, not the flat bright yellow; **"Connectivity All" in navy blue** — the globe's blue, RGB (12, 56, 122), echoing the blue earth on the coin.
 - Coin mark is the real `Mo-Logo-Coin-512.png` — never redrawn.
 
 ### Layout rules (finalized 2026-11-18)
